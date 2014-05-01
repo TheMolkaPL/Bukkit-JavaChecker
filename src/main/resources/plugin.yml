@@ -1,0 +1,7 @@
+name: Bukkit-JavaChecker
+version: Release 1.0
+description: Plugin for checking servers Java version
+author: TheMolkaPL
+main: pl.themolka.checker.JavaCheckerPlugin
+website: https://github.com/TheMolkaPL/Bukkit-JavaChecker
+prefix: 'JavaChecker'
